@@ -570,8 +570,8 @@ footer {
 }
 
 
-@media screen and (max-width: 768px) {
-  .produto1, .produto2, .produto3, .produto4, .produto5, .produto8, .redes1, .t, .face, .insta, .img1, .img2, .img3 , .img4 , .img5, .img8{
+@media (max-width: 760px) {
+  .paizao, .paizao2, .produto1, .produto2, .produto3, .produto4, .produto5, .produto8, .redes1, .t, .face, .insta, .img1, .img2, .img3 , .img4 , .img5, .img8, .contato, .contato1, .contato2, .contato3, .contato4, .contato5, .contato8, .flex , .w, .v , .x, .z, .roda2, footer{
     width: 100%;
   }
 }
